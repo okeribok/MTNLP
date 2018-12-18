@@ -23,7 +23,7 @@ Not yet made famous by allround nice guy Andreas from [Xpresspads](http://xpress
 * Velocity and aftertouch are transmitted as is, which means that there are no settings and that aftertouch starts immediately vs. after a little press in the [original firmware](https://github.com/dvhdr/launchpad-pro)
 
 ## Plans
-* make this respond to [Synthesia](http://synthesiagame.com/) so I can learn to play the songs I already know on this layout
+* make this respond to [Synthesia](http://synthesiagame.com/) so I can learn to play the songs I already know on the piano
 * add settings for transpose and octave up-down (in setup)
 * stretch goal: scale highlighting, with scales from Novation Circuit
 * add controls for velocity and aftertouch sensitivity, 
