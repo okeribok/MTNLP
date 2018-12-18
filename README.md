@@ -1,4 +1,4 @@
-Danger! work in progress by C-n00b!
+Danger! work in progress by C-n00b! [videodemo](http://youtu.be/XRD8osan3gw)
 
 # Magic Tone Network for Launchpad Pro
 *A [custom firmware for Launchpad Pro](https://github.com/dvhdr/launchpad-pro)*
